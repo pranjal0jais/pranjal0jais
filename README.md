@@ -28,8 +28,11 @@ Hi, I'm **Pranjal Jais** 👋
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pranjal0jais&theme=tokyonight)
-![](https://github-readme-streak-stats.herokuapp.com/?user=pranjal0jais&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal0jais&theme=tokyonight&hide_border=false&layout=compact)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pranjal0jais&theme=tokyonight)
+
+![Streak](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pranjal0jais&theme=tokyonight&utcOffset=8)
+
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pranjal0jais&theme=tokyonight)
+
 
 ---
